@@ -2,7 +2,7 @@
 #include <string.h>
 #include <mpi.h>
 
-const int MAX_STRING = 100;
+const int MAX_STRING = 1000;
 
 int main(void){
 	char	greeting[MAX_STRING];

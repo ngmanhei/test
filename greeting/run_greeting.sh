@@ -1,3 +1,3 @@
 rm greeting
 mpicc -o greeting greeting.c
-mpiexec -n 4 greeting
+mpiexec -n 10 greeting
